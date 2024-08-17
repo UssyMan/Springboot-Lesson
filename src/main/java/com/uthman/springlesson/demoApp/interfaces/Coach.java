@@ -1,2 +1,5 @@
-package com.uthman.springlesson.demoApp.interfaces;public interface Coach {
+package com.uthman.springlesson.demoApp.interfaces;
+
+public interface Coach {
+    String getBeginnerRoutines();
 }
